@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NotesTwo</string>
+    <string name="title">Título</string>
+    <string name="description">Descripción</string>
+    <string name="search">Buscar</string>
+    <string name="save">Guardar</string>
+    <string name="no_notes">Sin notas</string>
+    <string name="please_enter_title">Por favor ingrese el título</string>
+    <string name="note_saved_successfully">Nota guardada correctamente</string>
+    <string name="note_updated_successfully">Nota actualizada correctamente</string>
+    <string name="delete_note">Eliminar nota</string>
+    <string name="are_you_sure">¿Estás seguro de que quieres eliminar esta nota de forma permanente?</string>
+    <string name="delete">Eliminar</string>
+    <string name="cancel">Cancelar</string>
+</resources>
