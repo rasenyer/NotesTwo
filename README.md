@@ -24,14 +24,13 @@ Esta aplicación de notas la desarrollé utilizando la arquitectura MVVM, usando
 <h3>Capturas de pantalla:</h3>
 
 <div class="row">
-      	<img src="https://media-exp1.licdn.com/dms/image/C4E22AQGFigX0_F2Tgw/feedshare-shrink_1280/0/1634501632191?e=1637193600&v=beta&t=VeoURKaDI2zhzf8HOPFHfXyKVbGoyrthEAn5M5hyulg" width="250">
-      	<img src="https://media-exp1.licdn.com/dms/image/C4E22AQFyofiiX95uVA/feedshare-shrink_1280/0/1634501632196?e=1637193600&v=beta&t=IQK32axbhpjZPfHQ1wr6sgT7XWWmb5oW0Upd967hQes" width="250">     
-      	<img src="https://media-exp1.licdn.com/dms/image/C4E22AQHUinK5s0DdKQ/feedshare-shrink_1280/0/1634501632250?e=1637193600&v=beta&t=P9WTwU4X6TLdO6bQXLzTHWLT0nbeNUiaX_IEKvic61c" width="250">     
+      	<img src="https://blogger.googleusercontent.com/img/a/AVvXsEj08MU6M2pVNz3mftsNOV7RY7lC2giPtdMt_qnPy3L9-MC0MSJd_GOI9jOZilBVJX1adNrskZJPdxnIo--jVTo6odlZqN3SA_ys73G7nCrrkBl8HeizPwwAGUGa1RUQ46-LbsK5Ay2MIEItN65IBdbC-BOYreW5FBqd393UrqXa0mM_aQxxli0LIXDY=s16000" width="250">
+      	<img src="https://blogger.googleusercontent.com/img/a/AVvXsEgDMoss5btK4jBvYR0fEYZCaIM3NZNs8RNSOaAptIKLe05-55xw7qoLxCjiJRlGe1oWwZnTQCI9iwxhABix85Fj433CicmQ8NoMHmfJApFvimRvA3apzvfGuhKTaWmhe-ooTMRRDsZp50bkuO0oxaqbQ2dd34Pb4Mct0BOxhuibX9IkDUBSpj5s41cq=s16000" width="250">
 </div>
 
 <br>
 
 <div class="row">
-      	<img src="https://media-exp1.licdn.com/dms/image/C4E22AQGxArx19iAOWQ/feedshare-shrink_1280/0/1634501632150?e=1637193600&v=beta&t=qtJIWmA9mjXENbGt2G4GXyjue_jnFvD8LSag-m9nfiY" width="250">
-      	<img src="https://media-exp1.licdn.com/dms/image/C4E22AQGtR_eo2XbLXg/feedshare-shrink_1280/0/1634501632197?e=1637193600&v=beta&t=JyVdSRJgmvMpjnJXtTN5rT08uOOiFTVXZPaerE6d5Nc" width="250">	    
+      	<img src="https://blogger.googleusercontent.com/img/a/AVvXsEjXPBgTxC5Wvk1nF2MwscMqauKuSbNJOBgPTi6mmFSYDK358qCOjgG6U77Y-OYrmFR-oNDOgBTwfx4pLaTq2rtGMwXvaelkw6twCFYtYzSKutFjFMOsx48-CN9lo4o8GlHB2p6S9rM1IpcLqAviJs16yl1IGJ3Ws9H9nauRFHaZ1Vxv_QhBntH2tOkv=s16000" width="250">
+      	<img src="https://blogger.googleusercontent.com/img/a/AVvXsEh2MybM-ivEsfMvirIjc9MTjihAQhBDKLTYCrqF1AY0vNQ3rrR0VscwjOd7FA2EgqcIK4JccUOtnE-REJtiMT0nR5B3wYtMSt9SEUvP9Okudhaz1XxO1uDK7Xr2lRC0xfp7MMysEdwwog_OCs7PRQ63pKPAd32hutYmmbWl0IUgczALF4MmEc8Mld00=s16000" width="250">	    
 </div>
