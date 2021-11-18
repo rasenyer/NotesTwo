@@ -1,5 +1,5 @@
 # NotesTwo
-Esta aplicación de notas la desarrollé utilizando la arquitectura MVVM, usando el IDE Android Studio y el lenguaje de programación Kotlin.
+Simple aplicación Android de notas, desarrollada utilizando la arquitectura MVVM.
 
 <h3>Características:</h3>
 • Guardar nota
